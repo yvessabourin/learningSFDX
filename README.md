@@ -1,5 +1,3 @@
 # learningSFDX
 
-This repository is used as a testing groud for Salesforce DX.
-
-Hello Git
+Type 'git clone https://github.com/yvessabourin/learningSFDX.git to get started
